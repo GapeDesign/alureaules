@@ -45,16 +45,16 @@
 // }
 
 // exercicio 4
-let numero = parseInt(prompt('Escolha um número:'));
-let contador = 0;
+// let numero = parseInt(prompt('Escolha um número:'));
+// let contador = 0;
 
-while(contador <= numero) {
+// while(contador <= numero) {
     
-    if(numero <= contador) {
-        console.error('Digite um número válido!!');
-        break;
-    }
+//     if(numero <= contador) {
+//         console.error('Digite um número válido!!');
+//         break;
+//     }
 
-    console.log(contador);
-    contador++;
-}
+//     console.log(contador);
+//     contador++;
+// }
